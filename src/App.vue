@@ -9,7 +9,7 @@ import Index from './components/Index.vue'
     <Navbar />
 
     <main>
-    <Index/>
+      <router-view />
     </main>
 
     <Footer />
