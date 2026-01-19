@@ -6,6 +6,8 @@ import NameCardPage from '../pages/namecards/NameCardPage.vue'
 import BrochurePage from '../pages/brochures/BrochurePage.vue'
 import EnvelopePage from '../pages/envelope/EnvelopePage.vue'
 import VoucherPage from '../pages/voucher/VoucherPage.vue'
+import StandeePage from '../pages/standee/StandeePage.vue'
+import TuiPage from '../pages/tui/Tuipage.vue'
 
 const routes = [
   { path: '/', name: 'Home', component: HomePage },
@@ -13,7 +15,10 @@ const routes = [
   { path: '/namecards', name: 'NameCards', component: NameCardPage },
   { path: '/brochures', name: 'Brochures', component: BrochurePage },
   { path: '/envelope', name: 'Envelope', component: EnvelopePage },
-  { path: '/voucher', name: 'Voucher', component: VoucherPage }
+  { path: '/voucher', name: 'Voucher', component: VoucherPage },
+  {path: '/standee', name: 'Standee', component: StandeePage },
+  {path: '/tui', name: 'Tui', component: TuiPage },
+
 ]
 
 const router = createRouter({
