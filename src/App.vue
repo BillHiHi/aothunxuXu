@@ -11,8 +11,9 @@ import Index from './components/Index.vue'
     <main>
       <router-view />
     </main>
+    
 
-    <Footer />
+    <Footer/>
   </div>
 </template>
 

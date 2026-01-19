@@ -76,8 +76,8 @@
                 </div>
                 <div class="col">
                   <h6 class="category-title"><i class="bi bi-people me-2"></i>Khắc laser</h6>
-                  <router-link class="dropdown-item" to="/tet">Laser dưa hấu – Tết</router-link>
-                  <router-link class="dropdown-item" to="/du-an">Khắc lên các vật liệu khác nhau</router-link>
+                  <router-link class="dropdown-item" to="/laser">Laser dưa hấu – Tết</router-link>
+                  <router-link class="dropdown-item" to="/khaclaser">Khắc lên các vật liệu khác nhau</router-link>
                 </div>
 
               </div>
