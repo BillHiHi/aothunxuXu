@@ -21,8 +21,8 @@
                 
                 <div class="col">
                   <h6 class="category-title"><i class="bi bi-person-workspace me-2"></i>Thời Trang In Ấn</h6>
-                  <router-link class="dropdown-item" to="/ao-thun">Áo thun đồng phục - lớp</router-link>
-                  <router-link class="dropdown-item" to="/tui-canvas">Tạp dề quán - Nón team</router-link>
+                  <router-link class="dropdown-item" to="/inlogo">In logo áo</router-link>
+                  <router-link class="dropdown-item" to="/intemnhan">In tem nhãn</router-link>
                   <router-link class="dropdown-item" to="/tui">Túi canvas/vải in logo</router-link>
                 </div>
 

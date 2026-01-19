@@ -8,7 +8,8 @@ import EnvelopePage from '../pages/envelope/EnvelopePage.vue'
 import VoucherPage from '../pages/voucher/VoucherPage.vue'
 import StandeePage from '../pages/standee/StandeePage.vue'
 import TuiPage from '../pages/tui/Tuipage.vue'
-
+import inlogo from '../pages/logo/inlogo.vue'
+import intemnhan from '../pages/logo/intemnhan.vue'
 const routes = [
   { path: '/', name: 'Home', component: HomePage },
   { path: '/catalogue', name: 'Catalogue', component: CataloguePage },
@@ -16,9 +17,10 @@ const routes = [
   { path: '/brochures', name: 'Brochures', component: BrochurePage },
   { path: '/envelope', name: 'Envelope', component: EnvelopePage },
   { path: '/voucher', name: 'Voucher', component: VoucherPage },
-  {path: '/standee', name: 'Standee', component: StandeePage },
-  {path: '/tui', name: 'Tui', component: TuiPage },
-
+  { path: '/standee', name: 'Standee', component: StandeePage },
+  { path: '/tui', name: 'Tui', component: TuiPage },
+  { path: '/inlogo', name: 'inlogo', component: inlogo },
+  { path: '/intemnhan', name: 'intemnhan', component: intemnhan }
 ]
 
 const router = createRouter({
