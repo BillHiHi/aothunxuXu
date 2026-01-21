@@ -110,4 +110,18 @@ export const duahaulaserProducts = [
     size: "Đại (8kg+)",
     image: "/images/duahau/8.jpg.jpg",
   },
+
+  {
+  id: 309,
+  name: "Dưa hấu dạm ngõ khắc tên cô dâu – chú rể",
+  category: "dua-hau-dam-ngo",
+  shortDescription: "Dưa hấu dạm ngõ khắc tên, bày trong giỏ trái cây sang trọng.",
+  description: "Dưa hấu dạm ngõ được tuyển chọn kỹ, trái to tròn, vỏ xanh đẹp. Khắc chữ vàng nội dung lễ dạm ngõ và tên cô dâu – chú rể. Đi kèm giỏ trái cây gồm nho, táo, chuối, cam, chôm chôm, trang trí nơ đỏ trang trọng, phù hợp cho lễ dạm ngõ, ăn hỏi hoặc cưới hỏi truyền thống.",
+  minPrice: "650.000đ/giỏ",
+  paper: "Dưa hấu tròn loại đẹp",
+  finish: "Khắc chữ vàng cao cấp",
+  size: "Đại (7–9kg)",
+  image: "/images/duahau/9.jpg.jpg",
+}
+
 ];
